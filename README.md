@@ -315,7 +315,7 @@ All endpoints use the `/api` prefix. Authentication uses HTTP-only JWT cookies.
 
 Watch the demo video to see how CampusFind works, including its main features and functionality.
 
-**Demo Video:** [Watch CampusFind Demo](PASTE_YOUR_DEMO_LINK_HERE)
+**Demo Video:** https://drive.google.com/file/d/13PwT8zjHfPO38wkdybawbNAPOl0Qr2Vt/view?usp=sharing
 
 ---
 

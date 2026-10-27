@@ -409,9 +409,3 @@ MERN Final END TERM PROJECT/
 - ✅ Image uploads restricted to JPEG/PNG/WebP, max 5MB each
 - ✅ CORS locked to `CLIENT_ORIGIN` env var
 - ✅ Helmet security headers applied
-
----
-
-## 📜 License
-
-Academic project — SST Scaler End-Term Submission.

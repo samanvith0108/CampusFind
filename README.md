@@ -21,8 +21,9 @@ CampusFind addresses this problem by providing a centralized platform where stud
 CampusFind provides a centralized, campus-specific lost-and-found system with authenticated student accounts and a structured recovery workflow.
 
 Students can create lost or found reports with descriptions, locations, dates, and images. Search and filtering help users discover relevant reports. When someone believes an item belongs to them, they can submit a private claim containing verification details. The report owner can review the claim, approve or reject it, and confirm the physical handover when the item is returned.
+
 In-app notifications keep users informed about claim decisions and return updates, while administrative tools support moderation and account management.
----
+
 
 ## 📋 Table of Contents
 

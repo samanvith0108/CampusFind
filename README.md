@@ -2,6 +2,27 @@
 
 A full-stack MERN web application that helps students report, discover, claim, and recover lost belongings within a college campus.
 
+## Problem Statement
+
+Students frequently lose personal belongings such as ID cards, keys, wallets, books, and electronic devices on campus. Finding these items or returning them to their rightful owners can be difficult because information is scattered across informal communication channels, classroom groups, and notice boards.
+
+CampusFind addresses this problem by providing a centralized platform where students can report lost or found items, search existing reports, submit ownership claims, and coordinate the return of belongings.
+
+
+## Target Users
+
+- **Students:** Report lost belongings, discover found items, and submit ownership claims.
+- **Students who find belongings:** Publish found-item reports and review claims submitted by potential owners.
+- **Campus administrators:** Moderate reports, manage user accounts, and help maintain a reliable platform.
+
+
+## Solution
+
+CampusFind provides a centralized, campus-specific lost-and-found system with authenticated student accounts and a structured recovery workflow.
+
+Students can create lost or found reports with descriptions, locations, dates, and images. Search and filtering help users discover relevant reports. When someone believes an item belongs to them, they can submit a private claim containing verification details. The report owner can review the claim, approve or reject it, and confirm the physical handover when the item is returned.
+
+In-app notifications keep users informed about claim decisions and return updates, while administrative tools support moderation and account management.
 ---
 
 ## 📋 Table of Contents

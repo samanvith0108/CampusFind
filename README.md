@@ -316,7 +316,7 @@ All endpoints use the `/api` prefix. Authentication uses HTTP-only JWT cookies.
 
 ## 🌐 Deployment Links
 
-Live Application: https://campus-find-two-tau.vercel.app/dashboard
+Live Application: https://campus-find-two-tau.vercel.app/
 
 GitHub Repository: https://github.com/samanvith0108/CampusFind.git
 
